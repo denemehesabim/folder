@@ -1,0 +1,5 @@
+hibernate join fetch
+
+https://www.thoughts-on-java.org/hibernate-tips-difference-join-left-join-fetch-join/
+
+https://stackoverflow.com/questions/17431312/difference-between-join-and-join-fetch-in-hibernate
